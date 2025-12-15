@@ -5,7 +5,7 @@ In free time i Love to draw, walk and listen to music.</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src=""  />
 
 ###
 
@@ -61,9 +61,9 @@ In free time i Love to draw, walk and listen to music.</h2>
 
 - 🔭 I’m currently working on **Artificial Intelligence**
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **IOT Devices**
 
-- 💬 Ask me about **New TECHNOLOGIES**
+- 💬 Ask me about **NEW TECHNOLOGIES**
 
 - 📫 How to reach me **biswalsubhendu12345@gmail.com**
 
