@@ -5,8 +5,6 @@ In free time i Love to draw, walk and listen to music.</h2>
 
 ###
 
-<img align="right" height="150" src=""  />
-
 ###
 
 <div align="left">
